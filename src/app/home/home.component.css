@@ -1,0 +1,15 @@
+ .carousel-item {
+     height: 75vh;
+     width: 100%;
+     background: no-repeat center center scroll;
+     -webkit-size: cover;
+     background-size: cover;
+ }
+ 
+ .carousel-caption {
+     bottom: 220px;
+ }
+ 
+ img {
+     background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+ }
